@@ -1,9 +1,6 @@
 #!/usr/local/bin/python
 
-import datetime
 import json
-import os
-import pprint
 import requests
 import sys
 
